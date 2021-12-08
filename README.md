@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hoanggphucc31
-- 👀 Now, I'm a student in University of engineering and technology and FPT software
+- 👀 Now, I'm a student in University of engineering and technology and FPT University
 - 🌱 I’m currently learning C#
 - 💞️ My dream is to become an engineer ><
 - 🤞 I'm working for FPT software
