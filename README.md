@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hoanggphucc31
-- 👀 
+- 👀 Now, I'm a student in University of engineering and technology (UET-VNU)
 - 🌱 I’m currently learning C# (App development)
 - 💞️ 
 - 📫 How to reach me ...
