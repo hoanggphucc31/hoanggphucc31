@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @hoanggphucc31
-- 👀 Now, I'm a student in University of engineering and technology and FPT University
+- ❤ 20 years old
+- 🥤 Coffee and Coke
+- 👀 Now, I'm a student in University of engineering and technology and National Economics University. 
 - 🌱 I’m currently learning C#
 - 💞️ My dream is to become an engineer ><
 - 🤞 I'm working for FPT software
+- ✔ NETFLIX, SPOTIFY, YOUTUBE PREMIUM, FPT PLAY VIP,K+, GRAMMARLY, TURNITIN .... ACCOUNT PREMIUM
 - 📫 How to reach me 
 Facebook: https://www.facebook.com/anyone831
 Instagram: https://www.instagram.com/hoanggphuc_31/
