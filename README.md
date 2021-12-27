@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hoanggphucc31
 - ❤ 20 years old
 - 🥤 Coffee and Coke
-- 👀 Now, I'm a student in University of engineering and technology and National Economics University. 
+- 👀 Now, I'm a student in National Economics University and University of engineering and technology.
 - 🌱 I’m currently learning C#
 - 💞️ My dream is to become an engineer ><
 - 🤞 I'm working for FPT software
