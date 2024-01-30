@@ -5,7 +5,7 @@
 
 🥤 Coffee and Coke
 
-👀 Now, I'm a student at University of Engineering and Technology.
+👀 Now, I'm a student at VNU, University of Engineering and Technology.
 
 🌱 I’m currently learning Javascript.
 
